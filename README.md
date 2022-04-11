@@ -4,6 +4,7 @@ You can see this project at address: https://job-form.nenadweb.com
 Some of credentials:
 
 email: pera@gmail.com password: perapera
+
 email: darko@gmail.com password: darkodarko
 
 Admin - email: john@gmail.com password: admin1234
